@@ -111,7 +111,8 @@ Email templates for contact and auto-reply can be customized under **Settings > 
 
 ## Authors
 
-* [GrofGraf](https://github.com/GrofGraf)
+* Romain Pfund for [RPinfo](https://github.com/RPinfo-ch)
+* forked from [GrofGraf](https://github.com/GrofGraf)
 
 ## License
 
