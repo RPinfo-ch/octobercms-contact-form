@@ -18,6 +18,7 @@ You are always welcome to use it and feel free to give any suggestions or opinio
 * [Translate](https://octobercms.com/plugin/rainlab-translate) plugin, if you want to include multilingual contents.
 * [MailgunSubscribe](https://octobercms.com/plugin/grofgraf-mailgunsubscribe), if you want to enable automatic subscribtion to maillist.
 * Setup [reCaptcha](https://www.google.com/recaptcha/admin) in case you want to enable human verification test and protect your website from spam and abuse.
+* Setup [hCaptcha](https://www.hcaptcha.com/) in case you want to enable GDPR complient human verification test and protect your website from spam and abuse.
 
 ## Settings
 This plugin creates a Settings menu item, found by navigating to **Settings > Marketing > Contact Form**. This page allows the setting of captcha validation, confirmation message, input labels, button text or enabling file upload for attachments and auto-reply.
